@@ -1,0 +1,16 @@
+Description of Files:
+
+PuzzleGameLayer_iOS_2014.m                      
+- This puzzle game source was not published. I used this app code to test new animations and game functions.
+
+SuperBlueFuguGame_GameLevel_iOS_2010.m
+- This action game source includes loading the game level and the main game loop.
+
+TalkspotBlogViewController_iOS_2013.m           
+- This blogging app for iPhone and iPad is the universal ViewController for the main blog posting activity.
+
+TriviaWebService_ProfilesGameAll_NET.asmx.vb
+- This ASP.NET VB.NET Web Service was used by the iPhone game for profiles, game loop, questions/answers system. 
+
+WorldTriviaGame_AdminWebPortalScreen_NET.aspx
+- This ASP.NET VB.NET web file was used as the Administration Screen for the Trivia game with complete control over all questions/answers, a list of current online users, chat output and all system stats.
