@@ -9,7 +9,6 @@
 // GO TO LINE 890 FOR INIT TO START
 // GO TO LINE 1190 FOR SCHEDULERS
 
-
 // Import the interfaces
 #import "Level001.h"
 #include <stdlib.h>
