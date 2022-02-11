@@ -17,7 +17,6 @@ Imports System.Xml
 'Imports MySql.Data.MySqlClient
 
 
-
 ' To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line.
 ' <System.Web.Script.Services.ScriptService()> _
 <System.Web.Services.WebService(Namespace:="http://localhost/tbtss/")> _
