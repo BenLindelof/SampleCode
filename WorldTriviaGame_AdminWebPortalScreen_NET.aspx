@@ -36,7 +36,7 @@
         }
         .HeaderStyle th
         {
-            padding: 5px;
+            padding: 6px;
             color: #ffffff;
         }
         .HeaderStyle a
