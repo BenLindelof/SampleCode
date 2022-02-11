@@ -4,7 +4,7 @@
  
  */
 
-#import "TalkSpotAppDelegate.h"
+#import "TSAppDelegate.h"
 #import "MyViewController.h"
 #import "MainMenuController.h"
 #import "Wrapper.h"
