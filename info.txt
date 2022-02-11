@@ -2,7 +2,7 @@
 Welcome to my Sample Code Repository!  My portfolio is also online at: https://bensapps.neocities.org
 ______________________________________________________________________________________________________________________________________________________
 
-Description of Files:
+Description of Sample Files:
 
 BlogViewController_iOS_2013.m           
 - Blogging app for iPhone and iPad.  It is a universal ViewController for the main blog posting activity by sending requests to a C# .NET Web Service.
@@ -21,3 +21,4 @@ WorldTriviaGame_AdminWebPortalScreen_NET.aspx
 online users, chat output and all system stats.
 
 ______________________________________________________________________________________________________________________________________________________
+
