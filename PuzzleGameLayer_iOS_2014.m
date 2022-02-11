@@ -240,7 +240,6 @@ int intPopDownBtnJustPopped = 0;
 //NSDate *dateTimeStartedDrop = [NSDate date];
 
 
-
 //23x23 sprites with 1/2/4 pixel sides/t/b overlap.  21x21 for trace fill
 //
 //9 by 15:  23px iphone    46  hd,   92   ultra hd,
