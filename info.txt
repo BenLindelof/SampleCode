@@ -2,14 +2,14 @@ Welcome to my Sample Code Repository!  My portfolio is also online at: https://b
 
 Description of Files:
 
+BlogViewController_iOS_2013.m           
+- Blogging app for iPhone and iPad.  It is a universal ViewController for the main blog posting activity by sending requests to a C# .NET Web Service.
+
 PuzzleGameLayer_iOS_2014.m                      
 - Puzzle game source.  I use this app code to test new animations and game functions.
 
 SuperBlueFuguGame_GameLevel_iOS_2010.m
 - Action game source includes loading the game level and the main game loop.
-
-BlogViewController_iOS_2013.m           
-- Blogging app for iPhone and iPad.  It is a universal ViewController for the main blog posting activity by sending requests to a C# .NET Web Service.
 
 TriviaWebService_ProfilesGameAll_NET.asmx.vb
 - ASP.NET VB.NET Web Service was used by the iPhone game to provide WebMethods for profiles, game loop, questions/answers system. 
