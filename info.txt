@@ -1,3 +1,5 @@
+Welcome to my Sample Code Repository!  My portfolio is also online at: https://bensapps.neocities.org
+
 Description of Files:
 
 PuzzleGameLayer_iOS_2014.m                      
