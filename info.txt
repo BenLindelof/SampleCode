@@ -17,7 +17,8 @@ TriviaWebService_ProfilesGameAll_NET.asmx.vb
 - ASP.NET VB.NET Web Service was used by the iPhone game to provide WebMethods for profiles, game loop, questions/answers system. 
 
 WorldTriviaGame_AdminWebPortalScreen_NET.aspx
-- ASP.NET VB.NET web file was used as the Administration Screen for the Trivia game with complete control over all questions/answers, a list of current online users, chat output and all system stats.
+- ASP.NET VB.NET web file was used as the Administration Screen for the Trivia game with complete control over all questions/answers, a list of current 
+online users, chat output and all system stats.
 
 
 
