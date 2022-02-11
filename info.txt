@@ -8,7 +8,7 @@ PuzzleGameLayer_iOS_2014.m
 SuperBlueFuguGame_GameLevel_iOS_2010.m
 - Action game source includes loading the game level and the main game loop.
 
-TalkspotBlogViewController_iOS_2013.m           
+BlogViewController_iOS_2013.m           
 - Blogging app for iPhone and iPad.  It is a universal ViewController for the main blog posting activity by sending requests to a C# .NET Web Service.
 
 TriviaWebService_ProfilesGameAll_NET.asmx.vb
