@@ -1,7 +1,6 @@
 /*
      File: MyViewController.m
 
- 
  */
 
 #import "TalkSpotAppDelegate.h"
